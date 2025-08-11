@@ -1,6 +1,6 @@
 # Power BI Personal Finance Dashboard
 
-A dynamic and interactive Power BI dashboard designed to monitor personal financial health over time. It provides insightful visualizations on income, expenses, savings, and net worth — all segmented by category and tracked monthly.
+A dynamic and interactive Power BI dashboard designed to monitor personal financial health over time. It provides insightful visualizations on income, expenses, savings, and net worth (all segmented by category) and tracked monthly.
 
 ## Dashboard Overview
 
